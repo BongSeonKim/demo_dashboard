@@ -3,7 +3,7 @@
     <div>
       <div class="row">
         <div class="col-md-6">
-          <h5>Notifications Style-</h5>
+          <h5>Notifications Style</h5>
           <div class="alert alert-info">
             <span>This is a plain notification</span>
           </div>
